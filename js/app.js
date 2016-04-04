@@ -52,12 +52,12 @@
         stars: 5,
         body: "Great Jersey!",
         author: "sam@example.org",
-        createdOn: 1397490980837
+        createdOn: 1459738777244
       }, {
         stars: 4,
         body: "The quality of this Jersey is excellent",
         author: "john@example.org",
-        createdOn: 1397490980837
+        createdOn: 1459738777244
       }]
     }, {
       name: 'Sydney FC 15/16 Puma Adults Home Jersey',
@@ -75,12 +75,12 @@
         stars: 3,
         body: "Great colour, Looking forward to the Season!",
         author: "joe@black.org",
-        createdOn: 1397490980837
+        createdOn: 1459738777244
       }, {
         stars: 3,
         body: "Preferred last season's jerysey.",
-        author: "christ@example.org",
-        createdOn: 1397490980837
+        author: "chris@example.org",
+        createdOn: 1459738777244
       }]
     }, {
       name: 'Sydney FC Jacquard Scarf - The Sky Blues',
@@ -97,18 +97,18 @@
       reviews: [{
         stars: 4,
         body: "Good Quality Scarf.",
-        author: "turtleguyy@example.org",
-        createdOn: 1397490980837
+        author: "James@example.org",
+        createdOn: 1459738777244
       }, {
         stars: 3,
         body: "Design.",
-        author: "LouisW407@example.org",
-        createdOn: 1397490980837
+        author: "Jacky@example.org",
+        createdOn: 1459738777244
       }, {
-        stars: 1,
-        body: "Don't waste your rubles!",
-        author: "nat@example.org",
-        createdOn: 1397490980837
+        stars: 5,
+        body: "I love it!",
+        author: "jill@example.org",
+        createdOn: 1459738777244
       }]
     }];
 })();
